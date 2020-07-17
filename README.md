@@ -1,4 +1,3 @@
-# supermarket-list
 <h1 align="center">
   Projeto de Estudo sobre JS, ReactJS, Typescript, NodeJS e MySQL
 </h1>
